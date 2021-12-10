@@ -15,3 +15,9 @@
 6 Filebeat for collecting logs from multiple host
 
 7 Fluentd for collecting logs from multiple host
+
+8 Portainer for container management
+
+9 Website for players to register, logged in and download vpn connection file 
+
+10 ssh to see everything runs properly
