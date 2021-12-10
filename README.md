@@ -1,6 +1,6 @@
 # Design-ctf
 
-# There are four basic elements in designing ctf:
+# There are basic elements in designing ctf:
 
 1 Docker and docker compose
 
