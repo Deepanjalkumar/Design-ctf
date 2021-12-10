@@ -23,3 +23,5 @@
 10 ssh to see everything runs properly
 
 11 cloud cli 
+
+12 Ansible for automated infrastructure setup
