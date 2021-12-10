@@ -10,7 +10,7 @@
 
 4 github (for variety of challenge not needed neccessary if one person is designing turn out to be plain vanilla)
 
-5 ELK for SIEM SETUP
+5 ELK
 
 6 Filebeat for collecting logs from multiple host
 
@@ -21,3 +21,5 @@
 9 Website for players to register, logged in and download vpn connection file 
 
 10 ssh to see everything runs properly
+
+11 cloud cli 
