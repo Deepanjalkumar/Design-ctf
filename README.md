@@ -13,3 +13,5 @@
 5 ELK for SIEM SETUP
 
 6 Filebeat for collecting logs from multiple host
+
+7 Fluentd for collecting logs from multiple host
