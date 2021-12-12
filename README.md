@@ -26,4 +26,3 @@
 
 12 Ansible for automated infrastructure setup
 
-13 Yara
